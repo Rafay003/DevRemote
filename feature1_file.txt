@@ -1,1 +1,1 @@
-this is featureone file
+this is featureone file, adding text in feature2
